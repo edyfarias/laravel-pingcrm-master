@@ -1,0 +1,54 @@
+2023.05.05 13:28:53 INFO  Started: Metals version 0.11.12 in workspace 'C:\xampp\htdocs\projeto\tcc.completo\laravel-pingcrm-master' for client Visual Studio Code 1.77.3.
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMA합ES: Flyway Community Edition 9.16.3 by Redgate
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMA합ES: See release notes here: https://rd.gt/416ObMi
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMA합ES: 
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMA합ES: Database: jdbc:h2:file:C:\xampp\htdocs\projeto\tcc.completo\laravel-pingcrm-master\.metals\metals (H2 2.1)
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFORMA합ES: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMA합ES: Successfully validated 4 migrations (execution time 00:00.012s)
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFORMA합ES: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMA합ES: Current version of schema "PUBLIC": << Empty Schema >>
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMA합ES: Migrating schema "PUBLIC" to version "1 - Create tables"
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMA합ES: Migrating schema "PUBLIC" to version "2 - Server discovery"
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMA합ES: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMA합ES: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+mai 05, 2023 1:28:54 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMA합ES: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.040s)
+2023.05.05 13:28:54 INFO  time: initialize in 0.46s
+2023.05.05 13:28:54 WARN  Build server is not auto-connectable.
+2023.05.05 13:28:54 WARN  no build tool detected in workspace 'C:\xampp\htdocs\projeto\tcc.completo\laravel-pingcrm-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.05.05 13:29:55 INFO  Shutting down server
+2023.05.05 13:29:55 INFO  shutting down Metals
+2023.05.05 13:29:55 INFO  Exiting server
+2023.07.14 14:37:07 INFO  Started: Metals version 0.11.12 in workspace 'C:\xampp\htdocs\projeto\tcc.completo\laravel-pingcrm-master' for client Visual Studio Code 1.79.0.
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMA합ES: Flyway Community Edition 9.16.3 by Redgate
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMA합ES: See release notes here: https://rd.gt/416ObMi
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMA합ES: 
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMA합ES: Database: jdbc:h2:file:C:\xampp\htdocs\projeto\tcc.completo\laravel-pingcrm-master\.metals\metals (H2 2.1)
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMA합ES: Successfully validated 4 migrations (execution time 00:00.018s)
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMA합ES: Current version of schema "PUBLIC": 4
+jul 14, 2023 2:37:08 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMA합ES: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.14 14:37:08 INFO  time: initialize in 0.49s
+2023.07.14 14:37:08 WARN  Build server is not auto-connectable.
+2023.07.14 14:37:08 WARN  no build tool detected in workspace 'C:\xampp\htdocs\projeto\tcc.completo\laravel-pingcrm-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.14 14:38:02 INFO  Shutting down server
+2023.07.14 14:38:02 INFO  shutting down Metals
+2023.07.14 14:38:02 INFO  Exiting server
